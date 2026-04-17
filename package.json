@@ -14,13 +14,13 @@
   "description": "Full-stack PRD assignment for a charity-led golf rewards platform.",
   "dependencies": {
     "@supabase/supabase-js": "^2.103.3",
-    "@types/node": "^22.9.0",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "next": "15.1.0",
+    "@types/node": "^22.10.1",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.1",
+    "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   },
   "devDependencies": {
     "eslint": "^9.39.4",
